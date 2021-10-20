@@ -1,5 +1,5 @@
 ## Nesterov's momentum improves the convergence rate of FW on a class of constraints
-This repo contains the code for TSP and AAAI paper
+This repo contains the code for two improved and faster Frank Wolfe algorithms, AFW and ExtraFW, in the TSP and AAAI papers
 - [A Momentum-Guided Frank-Wolfe Algorithm](https://ieeexplore-ieee-org.ezp1.lib.umn.edu/document/9457128)
 - [Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem](https://ojs.aaai.org/index.php/AAAI/article/view/17012)
 
