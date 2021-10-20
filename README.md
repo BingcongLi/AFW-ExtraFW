@@ -6,12 +6,12 @@ This repo contains the code for TSP and AAAI paper
 
 ### Code organization
 
-- [prob.py](https://github.com/BingcongLi/HFW/blob/main/prob.py) defines the loss functions and constraint sets.
-- [optimizer.py](https://github.com/BingcongLi/HFW/blob/main/optimizer.py) implements proposed and benchmark algorithms.
-- [main.ipynb](https://github.com/BingcongLi/HFW/blob/main/main.ipynb) gives an example of binary classification on dataset *mushroom*.
+- [optimizer.py](https://github.com/BingcongLi/AFW-ExtraFW/blob/main/optimizer.py) implements proposed AFW and ExraFW, along with other benchmark algorithms.
+- [prob.py](https://github.com/BingcongLi/AFW-ExtraFW/blob/main/prob.py) defines the loss functions and constraint sets.
+- [main.ipynb](https://github.com/BingcongLi/AFW-ExtraFW/blob/main/main.ipynb) gives an example of binary classification on dataset *mushroom*.
 
 ### Reference
-If the code is helpful for your research, please cite the following papers
+Please cite the following papers if you find the code is helpful.
 ```
 @inproceedings{li2021enhancing,
   title={Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem},
