@@ -11,7 +11,7 @@ This repo contains the code for two improved and faster Frank Wolfe algorithms, 
 - [main.ipynb](https://github.com/BingcongLi/AFW-ExtraFW/blob/main/main.ipynb) gives an example of binary classification on dataset *mushroom*.
 
 ### Reference
-Please cite the following papers if you find the code is helpful.
+Please cite the following papers if you find the code helpful.
 ```
 @inproceedings{li2021enhancing,
   title={Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem},
